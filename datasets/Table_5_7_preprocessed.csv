@@ -1,0 +1,10 @@
+State,No._of_Habitations_Selected_for_the_Study,Utilised_Tested_and_Quality_Materials,Not_utilised_Tested_and_Quality_Materials,Quality_and_Quantity_of_Materials_used_by_the_Contractor___Not_up_the_Standard/lack_of_Thickness,Quality_and_Quantity_of_Materials_used_by_the_Contractor___Used_Inadequate_Quantity_of_Black_Tapping,Quality_and_Quantity_of_Materials_used_by_the_Contractor___Used_substandard_Quality_Cement/_Bricks_instead_of_Stones,quality_material_ratio
+Assam,20,12.0,4.0,4.0,2.0,0.0,0.75
+Bihar,18,10.0,8.0,7.0,0.0,1.0,0.5555555555555556
+Gujarat,20,12.0,5.0,2.0,0.0,1.0,0.7058823529411765
+Himachal Pradesh ,20,19.0,1.0,0.0,0.0,0.0,0.95
+Kerala,20,18.0,0.0,0.0,0.0,0.0,1.0
+Orissa,20,15.0,0.0,0.0,0.0,0.0,1.0
+Rajasthan,20,20.0,0.0,0.0,0.0,0.0,1.0
+Total,138,106.0,18.0,13.0,2.0,2.0,0.8548387096774194
+Percentage,-1,-0.77,-0.13,-0.09,-0.0001,-0.0001,0.8555555555555555
